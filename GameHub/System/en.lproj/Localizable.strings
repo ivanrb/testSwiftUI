@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  GameHub
+
+  Created by Ivan Rodriguez on 31/8/23.
+  
+*/
+
+"game_list_title" = "Games";
+"search_placeholder" = "Search game...";
+"cancel" = "Cancel";
+"save" = "Save";
+"view_style" = "View Style";
+"grid" = "Grid";
+"list" = "List";
+"order" = "Order by...";
+"name" = "Name";
+"released" = "Released";
+"metacritic" = "Metacritic";
